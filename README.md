@@ -4,15 +4,20 @@
 ```bash
 npm install
 ```
-Node version: `v16.20.0`
+
+## Node
+* Node version: `v16.20.0`
 
 ## Token
-Change your token and more in --> `.env`
+* Change your token and more in --> `.env`
 
 ## Start Bot
+type:
 ```bash
 node .
 ```
+in your terminal
+
 or
 ```bash
 npm start index.js
@@ -22,7 +27,7 @@ npm start index.js
 ```bash
 //help
 ```
-// is the main prefix. You can change it in --> `botconfig/config.json`
+* // is the main prefix. You can change it in --> `botconfig/config.json`
 
 
-## By Caxtry# Bot201
+## By Caxtry

@@ -1,0 +1,48 @@
+{
+    "token": "",
+    "prefix": "//",
+    "ownerIDS": [
+        "991830733733769327", ""
+    ],
+    "fnbr": "GET from: https://fnbr.co",
+    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "memer_api": "fTJLBpkPvyZ",
+    "status": {
+        "text": "Watching: {membercount} | Cmd: {commands}",
+      "text2": "{prefix}help | Playing: {guildcount}",
+      "type": "PLAYING",
+      "url": "https://www.twitch.tv/"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "narco.buses.rocks",
+            "port": 2269,
+            "password": "glasshost1984"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "",
+        "clientID": ""
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
