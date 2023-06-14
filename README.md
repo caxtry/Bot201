@@ -28,5 +28,5 @@ in your terminal
 ```
 * // is the main prefix.
 
-I hope you enjoy!
 ## By Caxtry
+Enjoy!!
